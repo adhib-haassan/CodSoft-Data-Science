@@ -7,3 +7,6 @@ The goal of this project is to predict passenger survival by analyzing the Titan
 
 # Iris Flower Classification Project:
 Using the Iris dataset, the Iris Flower Classification project uses traditional machine learning to the task of classifying iris flowers into different species according to measurements of their sepals and petals.
+
+# Credit Card Fraud Detection Description: 
+In the Credit Card Fraud Detection project, I developed a machine learning model to identify fraudulent credit card transactions. The project addresses class imbalance, preprocesses data, and uses logistic regression for classification.
